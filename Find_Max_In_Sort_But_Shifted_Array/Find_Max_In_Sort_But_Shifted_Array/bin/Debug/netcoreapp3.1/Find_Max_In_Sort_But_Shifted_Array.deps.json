@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Find_Max_In_Sort_But_Shifted_Array/1.0.0": {
+        "runtime": {
+          "Find_Max_In_Sort_But_Shifted_Array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Find_Max_In_Sort_But_Shifted_Array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

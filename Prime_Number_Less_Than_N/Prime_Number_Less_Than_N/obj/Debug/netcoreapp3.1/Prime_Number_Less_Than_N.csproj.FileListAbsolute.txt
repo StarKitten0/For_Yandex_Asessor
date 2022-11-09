@@ -1,0 +1,13 @@
+C:\Users\boris\source\repos\Prime_Number_Less_Than_N\Prime_Number_Less_Than_N\obj\Debug\netcoreapp3.1\Prime_Number_Less_Than_N.csprojAssemblyReference.cache
+C:\Users\boris\source\repos\Prime_Number_Less_Than_N\Prime_Number_Less_Than_N\obj\Debug\netcoreapp3.1\Prime_Number_Less_Than_N.AssemblyInfoInputs.cache
+C:\Users\boris\source\repos\Prime_Number_Less_Than_N\Prime_Number_Less_Than_N\obj\Debug\netcoreapp3.1\Prime_Number_Less_Than_N.AssemblyInfo.cs
+C:\Users\boris\source\repos\Prime_Number_Less_Than_N\Prime_Number_Less_Than_N\obj\Debug\netcoreapp3.1\Prime_Number_Less_Than_N.csproj.CoreCompileInputs.cache
+C:\Users\boris\source\repos\Prime_Number_Less_Than_N\Prime_Number_Less_Than_N\bin\Debug\netcoreapp3.1\Prime_Number_Less_Than_N.exe
+C:\Users\boris\source\repos\Prime_Number_Less_Than_N\Prime_Number_Less_Than_N\bin\Debug\netcoreapp3.1\Prime_Number_Less_Than_N.deps.json
+C:\Users\boris\source\repos\Prime_Number_Less_Than_N\Prime_Number_Less_Than_N\bin\Debug\netcoreapp3.1\Prime_Number_Less_Than_N.runtimeconfig.json
+C:\Users\boris\source\repos\Prime_Number_Less_Than_N\Prime_Number_Less_Than_N\bin\Debug\netcoreapp3.1\Prime_Number_Less_Than_N.runtimeconfig.dev.json
+C:\Users\boris\source\repos\Prime_Number_Less_Than_N\Prime_Number_Less_Than_N\bin\Debug\netcoreapp3.1\Prime_Number_Less_Than_N.dll
+C:\Users\boris\source\repos\Prime_Number_Less_Than_N\Prime_Number_Less_Than_N\bin\Debug\netcoreapp3.1\Prime_Number_Less_Than_N.pdb
+C:\Users\boris\source\repos\Prime_Number_Less_Than_N\Prime_Number_Less_Than_N\obj\Debug\netcoreapp3.1\Prime_Number_Less_Than_N.dll
+C:\Users\boris\source\repos\Prime_Number_Less_Than_N\Prime_Number_Less_Than_N\obj\Debug\netcoreapp3.1\Prime_Number_Less_Than_N.pdb
+C:\Users\boris\source\repos\Prime_Number_Less_Than_N\Prime_Number_Less_Than_N\obj\Debug\netcoreapp3.1\Prime_Number_Less_Than_N.genruntimeconfig.cache
